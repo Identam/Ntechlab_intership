@@ -12,9 +12,11 @@ Task from the qualifying stage to the internship
 Чтобы его запустить необходимо прописать команду python gender.py /название  
 директории, в которой хранятся картинки
 
+* process_results.json - пример выходного файла
 
 * Ntechlab.ipynb - ноутбук с обучением модели. В ноутбуке необходимо указать  
 путь к зархивированному файлу. [Здесь](https://drive.google.com/drive/folders/1oWKDN3bh5ryfItMW1EmtkhQ7r_YfiCSN?usp=sharing) лежат предобученные модели.  
 entire_model_152.pt - Предобученный ResNet152 с добавочными слоями, entire_model_50.pt - ResNet50  
 simple_model.pt - нейросеть собственной сборки.
+
 
